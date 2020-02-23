@@ -1,0 +1,15 @@
+16:22:31  [INFO ] : chrome浏览器启动
+16:22:35  [INFO ] : 访问http://datainsights.biz:10143/
+16:22:35  [INFO ] : xpath元素点击：//input[@placeholder='请选择']
+16:22:35  [INFO ] : xpath元素点击：//li[text()='学校']
+16:22:35  [INFO ] : 输入：sch001
+16:22:35  [INFO ] : 输入：1234567a
+16:22:35  [INFO ] : xpath元素点击：//button[@class='yd-button login-btn-main primary']
+16:22:37  [INFO ] : 悬停到指定元素：//div[@class='image-wrapper']
+16:22:39  [INFO ] : xpath元素点击：//li[contains(text(),'注销')]
+16:22:40  [INFO ] : 访问http://datainsights.biz:10143/
+16:22:41  [INFO ] : xpath元素点击：//input[@placeholder='请选择']
+16:22:41  [INFO ] : xpath元素点击：//li[text()='学校']
+16:22:41  [INFO ] : 输入：sch001
+16:22:41  [INFO ] : 输入：1234567a
+16:22:41  [INFO ] : xpath元素点击：//button[@class='yd-button login-btn-main primary']
